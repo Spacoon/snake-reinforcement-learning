@@ -17,3 +17,5 @@ Run as a shell script
 ```bash 
 python src/main.py
 ```
+
+![alt text](https://github.com/Spacoon/snake-reinforcement-learning/blob/main/showcase.jpg)
